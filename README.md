@@ -1,2 +1,3 @@
-A sample command-line application with an entrypoint in `bin/`, library code
-in `lib/`, and example unit test in `test/`.
+Calcula o IMC em dart solicitando informaçoes pelo console
+
+dart run
